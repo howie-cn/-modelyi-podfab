@@ -1,0 +1,8 @@
+{
+  "name": "PODFAB_WWW",
+  "description": "A dark-themed cyberpunk IP generator interface using Zustand, Tailwind, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
